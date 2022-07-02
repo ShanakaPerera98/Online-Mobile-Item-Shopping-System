@@ -1,0 +1,81 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    background-color: #fff;
+  }
+  .nav-link{
+    color: #008A86;
+    font-weight: bold;
+  }
+  .navbar-toggler{
+    outline: none!important;
+  }
+  .nav-item :hover{
+    color: #505050;
+  }
+  .nav-link.active{
+    color: #222;
+  }
+  /*---- End of Navigation Bar --------------------------------------------------*/
+
+  .topic{
+    color: #008A86;
+    font-size: 24px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+
+ /*---- Repair --------------------------------------------------*/
+  
+  p {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  .small {
+    font-size: 12px !important
+  }
+  .srchbtn{
+      background-color: #008A86;
+      color: #fff;
+      border: none;
+      padding: 4px;
+      padding-left: 40px;
+      padding-right: 40px;
+      border-radius: 40px;
+  }
+  .srchbtn:hover{
+    background-color: #505050;
+    color: #fff;
+}
+.status{
+    color: #008A86;
+}
+/*---- End of Repair --------------------------------------------------*/
+
+ /*---- Table --------------------------------------------------*/
+   .custab{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5% 0;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+    }
+.custab:hover{
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+    }
+/*---- End of Table --------------------------------------------------*/
+
+.dropdown-menu >a{
+  color: #008A86;
+  font-weight: 500;
+}
+.dropdown-menu >a:hover{
+  color: #ffffff;
+  background-color: #505050;
+}

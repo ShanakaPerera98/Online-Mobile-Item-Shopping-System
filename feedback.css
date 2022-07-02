@@ -1,0 +1,66 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+  background-color: #fff;
+  line-height: 1.5;
+}
+.nav-link{
+  color: #008A86;
+  font-weight: bold;
+}
+.navbar-toggler{
+  outline: none!important;
+}
+.nav-item :hover{
+  color: #505050;
+}
+.nav-link.active{
+  color: #222;
+}
+/*---- End of Navigation Bar --------------------------------------------------*/
+
+/*----- Feedback ----------------------------------------------------------------*/
+.text-left.topic{
+  color: #222; 
+  font-weight: bold;
+  font-size: 22px; 
+}
+.form-control-exampleFormControlTextarea1{
+  width: 40px;
+  background-color: #A33FC6;
+  color: #008A86;
+}
+.form-group{
+  color: rgb(71, 71, 71);
+  font-weight: bold;
+}
+.custom-control-label{
+  color: #008A86;
+  font-weight: 600;
+}
+.submitbtn{
+  color: #fff;
+  background-color: #008A86;
+  border: none;
+  font-size: 18px;
+  padding: 4px;
+  padding-left: 200px;
+  padding-right: 200px;
+  border-radius: 40px;
+}
+.submitbtn:hover{
+  color: #fff;
+  background-color: #505050;
+}
+/*----- End of Feedback ----------------------------------------------------------------*/
+
+.dropdown-menu >a{
+  color: #008A86;
+  font-weight: 500;
+}
+.dropdown-menu >a:hover{
+  color: #ffffff;
+  background-color: #505050;
+}

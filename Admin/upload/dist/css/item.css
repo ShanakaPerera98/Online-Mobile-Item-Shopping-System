@@ -1,0 +1,29 @@
+body{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+
+/*----- Upload Item ----------------------------------------------------------------------*/ 
+.btn.btn-primary1{
+    background-color: #008A86;
+    color: #fff;
+    border: none;
+    border-radius: 40px;
+    width: 200px;
+    margin-top: 20px;
+}
+.btn.btn-primary1:hover{
+    background-color: #505050;
+    color: #fff;
+}
+.subtopic{
+    color: #008A86;
+    font-size: 12px;
+}
+.col-md-4.control-label{
+    color: #008A86;
+    font-size: 12px;
+}
+/*----- End of Upload Item ----------------------------------------------------------------------*/
+

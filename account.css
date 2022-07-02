@@ -1,0 +1,68 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+  background-color: #fff;
+  line-height: 1.5;
+}
+.nav-link{
+  color: #008A86;
+  font-weight: bold;
+}
+.navbar-toggler{
+  outline: none!important;
+}
+.nav-item :hover{
+  color: #505050;
+}
+.nav-link.active{
+  color: #222;
+}
+/*---- End of Navigation Bar --------------------------------------------------*/
+
+.container h3{
+  color: #008A86;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.rebtn {
+  background: #008A86;
+  border: none;
+  border-radius: 25px;
+  color: #fff;
+  font-size: 14px;
+  padding: 8px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-decoration: none;
+}
+
+.rebtn:hover {
+  background: #505050;
+  text-decoration: none;
+  color: #fff;
+
+}
+
+.new_reg_popup, .new_login_popup {
+  border-radius: 2px;
+  min-height: 332px;
+  padding: 40px;
+  width: 800px;
+  margin-left: 80px;
+}
+
+.topic{
+  color: #008A86;
+}
+
+.dropdown-menu >a{
+  color: #008A86;
+  font-weight: 500;
+}
+.dropdown-menu >a:hover{
+  color: #ffffff;
+  background-color: #505050;
+}

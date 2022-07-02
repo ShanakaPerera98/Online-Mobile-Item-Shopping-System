@@ -1,0 +1,57 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+  background-color: #fff;
+  line-height: 1.5;
+}
+.admin.text-right{
+  color: #008A86;
+  font-weight: bold;
+  font-size: 20px;
+}
+/*---- End of Navigation Bar --------------------------------------------------*/
+
+
+/*---- Login --------------------------------------------------*/
+.loginbtn {
+    background: #008A86;
+    border: none;
+    border-radius: 25px;
+    color: #fff;
+    display: block;
+    font-size: 18px;
+    height: 38px;
+    line-height: 28px;
+    margin: 20px auto 5px;
+    width: 250px;
+    margin-top: 40px;
+}
+
+.loginbtn:hover{
+    background: #505050;
+    color: #fff;
+}
+
+.loginbtn:focus{
+    background: #303030;
+    color: #fff;
+}
+
+.new_login_popup {
+    border-radius: 2px;
+    min-height: 332px;
+    padding: 40px;
+    width: 500px;
+    margin: 0px auto;
+}
+
+.topic{
+    color: #008A86;
+}
+
+.logbtn a:hover{
+    text-decoration: none;
+}
+/*---- End of Login --------------------------------------------------*/
